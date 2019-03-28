@@ -1,2 +1,2 @@
-venv
-*.egg-info
+venv/
+*.egg-info/

@@ -24,6 +24,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Makefile" value="2" />
+          <entry key="blah" value="1" />
           <entry key="cfg" value="1" />
           <entry key="gitignore" value="3" />
           <entry key="html" value="1" />
@@ -37,22 +38,23 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="PLAIN_TEXT" value="9" />
           <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="43" />
+          <entry key="blah" value="9" />
+          <entry key="gitignore" value="46" />
           <entry key="md" value="57" />
           <entry key="py" value="37" />
-          <entry key="txt" value="126" />
+          <entry key="txt" value="133" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="57" />
-          <entry key="PLAIN_TEXT" value="169" />
+          <entry key="PLAIN_TEXT" value="188" />
           <entry key="Python" value="37" />
         </counts>
       </usages-collector>
@@ -72,8 +74,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/student_performance/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/student_performance/blah.egg-info/blah">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -91,6 +102,7 @@
         <option value="$PROJECT_DIR$/student_performance/setup.py" />
         <option value="$PROJECT_DIR$/student_performance/README.md" />
         <option value="$PROJECT_DIR$/student_performance/student_performance/__init__.py" />
+        <option value="$PROJECT_DIR$/student_performance/blah.egg-info/blah" />
         <option value="$PROJECT_DIR$/student_performance/.gitignore" />
       </list>
     </option>
@@ -117,6 +129,12 @@
               <item name="VIT-CodeSpace" type="b2602c69:ProjectViewProjectNode" />
               <item name="VIT-CodeSpace" type="462c0819:PsiDirectoryNode" />
               <item name="student_performance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VIT-CodeSpace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VIT-CodeSpace" type="462c0819:PsiDirectoryNode" />
+              <item name="student_performance" type="462c0819:PsiDirectoryNode" />
+              <item name="blah.egg-info" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -175,14 +193,21 @@
       <option name="project" value="LOCAL" />
       <updated>1553742738217</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated .gitignore">
+      <created>1553742870086</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553742870086</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="104" width="1786" height="909" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18977273" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18977273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -198,9 +223,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32793018" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50113636" side_tool="true" weight="0.32793018" />
       <window_info anchor="bottom" id="Flutter Performance" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32793018" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49886364" weight="0.32793018" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -223,7 +248,8 @@
     <MESSAGE value="added directory structure for flask app" />
     <MESSAGE value="updated README" />
     <MESSAGE value="added .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="added .gitignore" />
+    <MESSAGE value="updated .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated .gitignore" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/student_performance/requirements.txt">
@@ -285,10 +311,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/student_performance/blah.egg-info/blah">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/student_performance/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>

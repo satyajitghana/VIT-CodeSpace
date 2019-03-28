@@ -1,6 +1,7 @@
-# student_performance
+# student performance
 
-student_performance description
+VIT codespace, student performance prediction app.
+
 
 ## Quick Start
 

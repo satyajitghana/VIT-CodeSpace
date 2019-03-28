@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9f57d81-682e-4443-a108-eb17c53c15df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_performance/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/student_performance/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,41 +26,41 @@
           <entry key="Makefile" value="2" />
           <entry key="blah" value="1" />
           <entry key="cfg" value="1" />
-          <entry key="gitignore" value="3" />
+          <entry key="gitignore" value="5" />
           <entry key="html" value="1" />
           <entry key="in" value="1" />
-          <entry key="md" value="1" />
+          <entry key="md" value="2" />
           <entry key="py" value="8" />
           <entry key="sh" value="1" />
           <entry key="txt" value="1" />
-          <entry key="xml" value="1" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Bash" value="1" />
           <entry key="HTML" value="1" />
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="11" />
           <entry key="Python" value="8" />
-          <entry key="XML" value="1" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="blah" value="9" />
-          <entry key="gitignore" value="46" />
+          <entry key="gitignore" value="61" />
           <entry key="md" value="57" />
           <entry key="py" value="37" />
           <entry key="sh" value="13" />
-          <entry key="txt" value="133" />
+          <entry key="txt" value="170" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="13" />
           <entry key="Markdown" value="57" />
-          <entry key="PLAIN_TEXT" value="188" />
+          <entry key="PLAIN_TEXT" value="240" />
           <entry key="Python" value="37" />
         </counts>
       </usages-collector>
@@ -68,29 +68,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/student_performance/setup.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/student_performance/blah.egg-info/dadasdada.sh">
+        <entry file="file://$PROJECT_DIR$/student_performance/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/student_performance/blah.egg-info/blah">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
+            <state relative-caret-position="52">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -109,8 +91,8 @@
         <option value="$PROJECT_DIR$/student_performance/README.md" />
         <option value="$PROJECT_DIR$/student_performance/student_performance/__init__.py" />
         <option value="$PROJECT_DIR$/student_performance/blah.egg-info/blah" />
-        <option value="$PROJECT_DIR$/student_performance/.gitignore" />
         <option value="$PROJECT_DIR$/student_performance/blah.egg-info/dadasdada.sh" />
+        <option value="$PROJECT_DIR$/student_performance/.gitignore" />
       </list>
     </option>
   </component>
@@ -136,12 +118,6 @@
               <item name="VIT-CodeSpace" type="b2602c69:ProjectViewProjectNode" />
               <item name="VIT-CodeSpace" type="462c0819:PsiDirectoryNode" />
               <item name="student_performance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VIT-CodeSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VIT-CodeSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="student_performance" type="462c0819:PsiDirectoryNode" />
-              <item name="blah.egg-info" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -214,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553743002624</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="finished testing .gitignore">
+      <created>1553743091802</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1553743091802</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -263,7 +246,8 @@
     <MESSAGE value="updated README" />
     <MESSAGE value="added .gitignore" />
     <MESSAGE value="updated .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated .gitignore" />
+    <MESSAGE value="finished testing .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished testing .gitignore" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/student_performance/requirements.txt">
@@ -325,29 +309,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/student_performance/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2184" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/student_performance/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/student_performance/blah.egg-info/dadasdada.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
           <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_performance/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_performance/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>

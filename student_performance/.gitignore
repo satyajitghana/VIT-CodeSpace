@@ -1,2 +1,2 @@
 venv
-student_performance.egg-info
+*.egg-info

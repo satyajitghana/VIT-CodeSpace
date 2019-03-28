@@ -1,3 +1,5 @@
 student_performance/venv/
 student_performance/*.egg-info/
-.idea/
+student_performance/.empty/
+/.idea/
+/VIT-CodeSpace.iml

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9f57d81-682e-4443-a108-eb17c53c15df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/student_performance/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/student_performance/.gitignore" afterDir="false" />
+    <list default="true" id="e9f57d81-682e-4443-a108-eb17c53c15df" name="Default Changelist" comment="updated .gitignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +16,7 @@
     <session id="-157005313">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="2" />
@@ -49,18 +50,18 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="blah" value="9" />
-          <entry key="gitignore" value="61" />
+          <entry key="gitignore" value="149" />
           <entry key="md" value="57" />
           <entry key="py" value="37" />
           <entry key="sh" value="13" />
-          <entry key="txt" value="170" />
+          <entry key="txt" value="248" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="13" />
           <entry key="Markdown" value="57" />
-          <entry key="PLAIN_TEXT" value="240" />
+          <entry key="PLAIN_TEXT" value="406" />
           <entry key="Python" value="37" />
         </counts>
       </usages-collector>
@@ -69,10 +70,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/student_performance/.gitignore">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="52">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -93,6 +94,7 @@
         <option value="$PROJECT_DIR$/student_performance/blah.egg-info/blah" />
         <option value="$PROJECT_DIR$/student_performance/blah.egg-info/dadasdada.sh" />
         <option value="$PROJECT_DIR$/student_performance/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -103,7 +105,7 @@
     <option name="height" value="909" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -123,14 +125,29 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="VIT-CodeSpace" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -197,14 +214,27 @@
       <option name="project" value="LOCAL" />
       <updated>1553743091802</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="trying to gitignore .idea folder in parent directory">
+      <created>1553743353356</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553743353356</updated>
+    </task>
+    <task id="LOCAL-00008" summary="updated .gitignore">
+      <created>1553743501206</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553743501206</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="104" width="1786" height="909" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18977273" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18977273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -222,7 +252,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32793018" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50113636" side_tool="true" weight="0.32793018" />
       <window_info anchor="bottom" id="Flutter Performance" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49886364" weight="0.32793018" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" sideWeight="0.49886364" visible="true" weight="0.32793018" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -245,9 +275,10 @@
     <MESSAGE value="added directory structure for flask app" />
     <MESSAGE value="updated README" />
     <MESSAGE value="added .gitignore" />
-    <MESSAGE value="updated .gitignore" />
     <MESSAGE value="finished testing .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished testing .gitignore" />
+    <MESSAGE value="trying to gitignore .idea folder in parent directory" />
+    <MESSAGE value="updated .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated .gitignore" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/student_performance/requirements.txt">
@@ -334,10 +365,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/student_performance/.gitignore">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,2 @@
+recursive-include student_performance/templates *
+recursive-include student_performance/static *

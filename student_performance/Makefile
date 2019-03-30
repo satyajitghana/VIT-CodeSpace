@@ -14,3 +14,6 @@ test: venv
 
 sdist: venv test
 	venv/bin/python setup.py sdist
+
+data: venv
+	venv/bin/python core/model.py data/raw data/processed

@@ -16,6 +16,8 @@ sdist: venv test
 	venv/bin/python setup.py sdist
 
 data:
-	venv/bin/python src/data/process_data.py data/raw data/processed
+	venv/bin/python src/data/process_data.py data/raw/ data/processed/
 
+fit:
+	venv/bin/python src/model/model.py data/processed/student/student-mat.csv --test True
 .PHONY: all clean data

@@ -1,0 +1,3 @@
+email,age,Medu,Fedu,traveltime,studytime,failures,health,absences,M1,M2,M3,sex_F,sex_M,address_R,address_U,Mjob_at_home,Mjob_health,Mjob_other,Mjob_services,Mjob_teacher,Fjob_at_home,Fjob_health,Fjob_other,Fjob_services,Fjob_teacher,activities_no,activities_yes,higher_no,higher_yes
+one@gmail.com,16,2,1,3,1,0,4,6,90,90,90,0,1,0,1,0,0,1,0,0,0,0,1,0,0,1,0,0,1
+two@gmail.com,17,1,1,2,1,1,5,2,35,45,40,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,1

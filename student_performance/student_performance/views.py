@@ -1,14 +1,19 @@
-from flask import render_template
-from flask import request
+from flask import request, jsonify
 
 from student_performance import app
-from src.data import process_data
+from util import database
 
 
-@app.route('/')
+@app.route('/info', methods=["GET"])
 def index():
-    var = request.args.get('id')
-    print(var)
-    process_data.process("data/raw", "data/processed")
-    app.logger.warning('sample message')
-    return render_template('index.html')
+    user_email = request.args.get('email')
+    topic = request.args.get('topic')
+    subject = request.args.get('subject')
+
+    print(f'email: {user_email}, topic: {topic}, subject: {subject}')
+
+    student_info = database.get_student_info(user_email)
+    print(f'student details: {student_info}')
+
+    return jsonify({'status': 200})
+

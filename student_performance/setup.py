@@ -11,6 +11,6 @@ setup(
         'flask',
         'pandas',
         'scikit-learn',
-        'xlrd'
+        'xlrd',
     ],
 )

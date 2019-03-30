@@ -1,0 +1,12 @@
+{
+  "plant cell":{
+		"Weak": "Plant cells are  eukaryotic cells present in green plants, photosynthetic eukaryotes of the kingdom Plantae. Their distinctive features include primary cell walls containing cellulose, hemicelluloses and pectin, the presence of plastids with the capability to perform photosynthesis and store starch",
+		"Average": "Plant cells are  eukaryotic cells present in green plants, photosynthetic eukaryotes of the kingdom Plantae. Their distinctive features include primary cell walls containing cellulose, hemicelluloses and pectin, the presence of plastids with the capability to perform photosynthesis and store starch",
+		"Intelligent": "Plant cells are  eukaryotic cells present in green plants, photosynthetic eukaryotes of the kingdom Plantae. Their distinctive features include primary cell walls containing cellulose, hemicelluloses and pectin, the presence of plastids with the capability to perform photosynthesis and store starch"
+  },
+  "mitochondria":{
+      "Weak": "Mitochondria are the working organelles that keep the cell full of energy. Mitochondria are small organelles floating free throughout the cell. Some cells have several thousandmitochondria while others have none. Muscle cells need a lot of energy so they have loads of mitochondria.",
+      "Average": "Mitochondria are the working organelles that keep the cell full of energy. Mitochondria are small organelles floating free throughout the cell. Some cells have several thousandmitochondria while others have none. Muscle cells need a lot of energy so they have loads of mitochondria.",
+      "Intelligent": "Mitochondria are the working organelles that keep the cell full of energy. Mitochondria are small organelles floating free throughout the cell. Some cells have several thousandmitochondria while others have none. Muscle cells need a lot of energy so they have loads of mitochondria."
+  }
+}

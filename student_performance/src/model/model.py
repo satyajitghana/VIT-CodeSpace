@@ -46,16 +46,17 @@ def fit(datafile, test=False):
         print(f"Accuracy: {accuracy_score(y_test, y_pred)}")
 
 
-def predict(X):
+def predict(X, subject):
     """
     uses the created model to predict the user marks.
 
     :param X: the information of the user
+    :param subject: the model depends on the subject that is to be queried
     :return: the marks
     """
 
-    # model = pickle.load(open('src/model/'))
-    pass
+    model = pickle.load(open(f'src/model/{subject}.mdl', 'rb'))
+    return model.predict(X)
 
 
 def create_logger():

@@ -12,5 +12,6 @@ setup(
         'pandas',
         'scikit-learn',
         'xlrd',
+        'jupyter'
     ],
 )

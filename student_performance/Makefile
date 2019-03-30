@@ -16,6 +16,6 @@ sdist: venv test
 	venv/bin/python setup.py sdist
 
 data:
-	venv/bin/python core/model.py data/raw data/processed
+	venv/bin/python src/data/process_data.py data/raw data/processed
 
 .PHONY: all clean data

@@ -3,3 +3,4 @@ student_performance/*.egg-info/
 student_performance/.empty/
 /.idea/
 /VIT-CodeSpace.iml
+.vscode

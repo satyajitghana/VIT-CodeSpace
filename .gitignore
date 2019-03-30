@@ -4,3 +4,6 @@ student_performance/.empty/
 /.idea/
 /VIT-CodeSpace.iml
 .vscode
+student_performance/__pycache__/
+student_performance/src/__pycache__/__init__.cpython-37.pyc
+student_performance/src/data/__pycache__/

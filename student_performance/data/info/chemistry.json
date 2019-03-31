@@ -4,12 +4,12 @@
 		"Average": "The smallest particle of a chemical element that can exist. An atom consists of a nucleus which is formed by positively charged particles called protons, negatively charged particles called neutrons and neutral particles called neutrons.",
 		"Intelligent": "The atom is the smallest object that retains the properties of an element. Atoms are composed of electrons and a nucleus. The nucleus contains protons and neutrons. All atoms are electrically neutral, because every atom has an equal number of electrons and protons. Nearly all of the atom's mass is located in the nucleus"
 	},
-	"rutherford model":{
+	"rutherford_model":{
 		"Weak": "the Rutherford model of the atom is the classic model of the atom, even though it's no longer considered an accurate representation. Rutherford's model shows that an atom is mostly empty space, with electrons orbiting a fixed, positively charged nucleus in set, predictable paths.",
 		"Average": "the Rutherford model of the atom is the classic model of the atom, even though it's no longer considered an accurate representation. Rutherford's model shows that an atom is mostly empty space, with electrons orbiting a fixed, positively charged nucleus in set, predictable paths.",
 		"Intelligent": "the Rutherford model of the atom is the classic model of the atom, even though it's no longer considered an accurate representation. Rutherford's model shows that an atom is mostly empty space, with electrons orbiting a fixed, positively charged nucleus in set, predictable paths."
 	},
-	"bohr model ":{
+	"bohr_model ":{
 		"Weak": "Bohr’s Model of an atom The electrons move around in a predictable path called orbits. Bohr modified Rutherford’s model where he explained that electrons move around in fixed orbital shells.",
 		"Average": "Bohr’s Model of an atom The electrons move around in a predictable path called orbits. Bohr modified Rutherford’s model where he explained that electrons move around in fixed orbital shells.",
 		"Intelligent": "Bohr’s Model of an atom The electrons move around in a predictable path called orbits. Bohr modified Rutherford’s model where he explained that electrons move around in fixed orbital shells."
@@ -19,7 +19,7 @@
 		"Average": "At standard temperature and pressure, ethane is a colorless, odorless gas, and it is represented as CH4 .Related compounds may be formed by replacing a hydrogen atom with another functional group.",
 		"Intelligent": "At standard temperature and pressure, ethane is a colorless, odorless gas, and it is represented as CH4 .Related compounds may be formed by replacing a hydrogen atom with another functional group."
 	},
-	"thomson model":{
+	"thomson_model":{
 		"Weak": "Thomson atomic model, earliest theoretical description of the inner structure of atoms, proposed about 1904 by J J Thomson. Thomson held that atoms are uniform spheres of positively charged matter in which electrons are embedded. Popularly known as the plum pudding model, it had to be abandoned (1911) on both theoretical and experimental grounds in favour of the Rutherford atomic model, in which the electrons describe orbits about a tiny positive nucleus.",
 		"Average": "Thomson atomic model, earliest theoretical description of the inner structure of atoms, proposed about 1904 by J J Thomson. Thomson held that atoms are uniform spheres of positively charged matter in which electrons are embedded. Popularly known as the plum pudding model, it had to be abandoned (1911) on both theoretical and experimental grounds in favour of the Rutherford atomic model, in which the electrons describe orbits about a tiny positive nucleus.",
 		"Intelligent": "Thomson atomic model, earliest theoretical description of the inner structure of atoms, proposed about 1904 by J J Thomson. Thomson held that atoms are uniform spheres of positively charged matter in which electrons are embedded. Popularly known as the plum pudding model, it had to be abandoned (1911) on both theoretical and experimental grounds in favour of the Rutherford atomic model, in which the electrons describe orbits about a tiny positive nucleus."

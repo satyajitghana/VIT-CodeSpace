@@ -7,7 +7,7 @@ venv:
 	virtualenv --python=python3 venv && venv/bin/python setup.py develop
 
 run: venv
-	FLASK_APP=student_performance STUDENT_PERFORMANCE_SETTINGS=../settings.cfg venv/bin/flask run
+	FLASK_APP=student_performance STUDENT_PERFORMANCE_SETTINGS=../settings.cfg venv/bin/flask run --port 8000 --host "0.0.0.0"
 
 test: venv
 	STUDENT_PERFORMANCE_SETTINGS=../settings.cfg venv/bin/python -m unittest discover -s tests

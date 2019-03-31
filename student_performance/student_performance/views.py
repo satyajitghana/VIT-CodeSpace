@@ -38,5 +38,5 @@ def info():
     else:
         info = info["Intelligent"]
 
-    return jsonify({'status': 200, 'info': info, 'marks': int(marks)})
+    return jsonify({'status': 200, 'info': info})
 

@@ -9,12 +9,12 @@
 		"Average": "the Rutherford model of the atom is the classic model of the atom, even though it's no longer considered an accurate representation. Rutherford's model shows that an atom is mostly empty space, with electrons orbiting a fixed, positively charged nucleus in set, predictable paths.",
 		"Intelligent": "the Rutherford model of the atom is the classic model of the atom, even though it's no longer considered an accurate representation. Rutherford's model shows that an atom is mostly empty space, with electrons orbiting a fixed, positively charged nucleus in set, predictable paths."
 	},
-	"bohr_model ":{
+	"bohr_model":{
 		"Weak": "Bohr’s Model of an atom The electrons move around in a predictable path called orbits. Bohr modified Rutherford’s model where he explained that electrons move around in fixed orbital shells.",
 		"Average": "Bohr’s Model of an atom The electrons move around in a predictable path called orbits. Bohr modified Rutherford’s model where he explained that electrons move around in fixed orbital shells.",
 		"Intelligent": "Bohr’s Model of an atom The electrons move around in a predictable path called orbits. Bohr modified Rutherford’s model where he explained that electrons move around in fixed orbital shells."
 	},
-	"ethane structure":{
+	"ethane_structure":{
 		"Weak": "At standard temperature and pressure, ethane is a colorless, odorless gas, and it is represented as CH4 .Related compounds may be formed by replacing a hydrogen atom with another functional group.",
 		"Average": "At standard temperature and pressure, ethane is a colorless, odorless gas, and it is represented as CH4 .Related compounds may be formed by replacing a hydrogen atom with another functional group.",
 		"Intelligent": "At standard temperature and pressure, ethane is a colorless, odorless gas, and it is represented as CH4 .Related compounds may be formed by replacing a hydrogen atom with another functional group."
